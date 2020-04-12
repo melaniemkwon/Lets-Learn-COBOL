@@ -1,8 +1,8 @@
 ## WTF is COBOL?
 
->An aging programming language known as COBOL underpins much of the U.S. financial industry, but it has fallen out of favor among coders. This sets up a problem when systems run into glitches or need updates, and companies no longer have COBOL experts on hand."
+>An aging programming language known as COBOL underpins much of the U.S. financial industry, but it has fallen out of favor among coders. This sets up a problem when systems run into glitches or need updates, and companies no longer have COBOL experts on hand.
 
-COBOL (aka Common Business-Oriented Language)=) was invented by Rear Admiral [Grace Hopper](http://www.women-inventors.com/Dr-Grace-Murray-Hopper.asp), a mathematician, programmer, and all-around badass bitch.
+COBOL (aka Common Business-Oriented Language) was invented by Rear Admiral [Grace Hopper](http://www.women-inventors.com/Dr-Grace-Murray-Hopper.asp), a mathematician, programmer, and all-around badass bitch.
 
 ## WHY SHOULD I CARE ABOUT SOME OLDASS LANGUAGE WRITTEN BY SOME RANDOM DEAD WOMAN?
 
